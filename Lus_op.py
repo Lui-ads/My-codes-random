@@ -210,8 +210,7 @@ memory_in_use+=1
 # User manual (this manual is a folder)
 manual=['    |\n' +
         '    | On Systen\n' + 
-        '    | - Type "Open Terminal" to use this systen\n' +
-        '    | - Type "Open Browser" to use the browser (it is still just a test)\n' + 
+        '    | - Type "Terminal" to use this systen\n' + 
         '    |\n' +
         '    | On Terminal\n' +
         '    | - Type "clear" to clear all\n' + 
